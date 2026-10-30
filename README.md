@@ -1,2 +1,1 @@
-# entire-first-run
-Entire first-run demo repository
+# entire-first-runEntire first-run demo repositoryDemo change for Entire code review.
